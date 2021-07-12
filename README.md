@@ -30,6 +30,7 @@ The analysis of the election show that:
     - Raymon Anthony Doane received 3.1 % of the vote and 11,606 number of votes. 
 - The winner of the election was:
     - Diana DeGette who received 73.8 % of the vote and 272,892 number of votes. 
+[!plot1](https://github.com/amirimah/Election_Analysis/blob/main/Election_Results.png?raw=true)
 
 ## Election Audit Summary
 This code can be used for any election with a few modifications as follows:
